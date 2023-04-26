@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09a5190c.css",
+    "main.js": "/static/js/main.47cfc6e9.js",
+    "static/js/787.7f37139d.chunk.js": "/static/js/787.7f37139d.chunk.js",
+    "static/media/people-outline.svg": "/static/media/people-outline.f36559020d06d87586459b2db3a2f6c3.svg",
+    "static/media/profile-user.svg": "/static/media/profile-user.8af6f71c985ef846e37422b81e8a55ea.svg",
+    "static/media/picture.svg": "/static/media/picture.ae623a2ef25699b0e7f55d3023ca42ba.svg",
+    "static/media/picture-svgrepo-com.svg": "/static/media/picture-svgrepo-com.220784c3297fd452bc3e8dbba8ae46a6.svg",
+    "static/media/home-filled.svg": "/static/media/home-filled.b30a4f55276073962647a7b73a16d34b.svg",
+    "static/media/cancel-svgrepo-com.svg": "/static/media/cancel-svgrepo-com.06faabdd76ce8a7e2d34f4815aa82a27.svg",
+    "static/media/like-svgrepo-com.svg": "/static/media/like-svgrepo-com.86aebcb7f8c3ee4b001bf79886532dd5.svg",
+    "static/media/edit-svgrepo-com.svg": "/static/media/edit-svgrepo-com.e449fc252634b1841f04f2509e049655.svg",
+    "index.html": "/index.html",
+    "static/media/p-button.svg": "/static/media/p-button.ef4a4cc23c9ba22e44f123e25df0eef0.svg",
+    "main.09a5190c.css.map": "/static/css/main.09a5190c.css.map",
+    "main.47cfc6e9.js.map": "/static/js/main.47cfc6e9.js.map",
+    "787.7f37139d.chunk.js.map": "/static/js/787.7f37139d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a5190c.css",
+    "static/js/main.47cfc6e9.js"
+  ]
+}

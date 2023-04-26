@@ -1,0 +1,23 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    overflow-y: auto;
+    background: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
+    /* background: url('https://www.upenn.edu/sites/default/files/styles/crop_2x1/public/2022-10/college-hall-blue-sky.jpg?h=1d6985b4&itok=eQeSlSAh'); */
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+/* .home #myBtn.notificationBtn {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(17, 221, 221);
+} */
